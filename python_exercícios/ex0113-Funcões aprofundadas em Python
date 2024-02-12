@@ -1,0 +1,3 @@
+Reescreva a função leiaInt() que fizemos no desafio 104, incluido agora
+a possiblidade da digitação de um número de tipo inválido.
+Aproveite ecrie tambem uma função leiafloat() com a mesma funcionalidade.

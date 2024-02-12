@@ -1,0 +1,5 @@
+Crie um programa que vai elr vários números e colocar em uma lsita, depois disso
+mostre:
+A) Quantos números foram digitados.
+B) A lista de vallores, ordena de uma forma descrescente.
+C) Se o valor 5 foi digitado e está ou não na lista.

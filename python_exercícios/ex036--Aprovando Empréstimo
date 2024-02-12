@@ -1,0 +1,3 @@
+Escreva um programa para aprovar o emprestimo bancário para a compra de uma casa.
+Pergunte ovalor da casa , o salário do computador e em quantos anos ele vai pagar.
+A prestação mensal, não pode exceder 30% do sário ou então o empréstimo será negado.

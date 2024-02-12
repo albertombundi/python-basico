@@ -1,0 +1,3 @@
+Crie um programa que onde 4 jogadores joguem dado e tenham resultados
+aleatórios. Guarde esses resultados em um dicionário.No final, coloque
+esse diconário em ordem,sabendo que o vencedor tirou o mair número no dado.

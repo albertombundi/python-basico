@@ -1,0 +1,4 @@
+Crie um programa que tenha uma função chamada voto() que vai receber
+como paramentro o ano de nascimento de uma pessoa, retornado um valor
+literal indicando se uma pessoa tem voto NEGADO, OPCIONAL OU OBRIGATÓRIO
+nas eleições.

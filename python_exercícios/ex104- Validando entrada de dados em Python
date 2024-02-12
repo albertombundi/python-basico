@@ -1,0 +1,5 @@
+Crie um programa que tenha função leiaint(), que vai funcionar de
+forma semelhante á função input do python, só que fazendo a validação para
+aceitar apenas um valor numérico.
+ex:
+n = leiaint('Digite um n)'
